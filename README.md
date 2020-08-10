@@ -1,4 +1,4 @@
-# vue-crud-firebase
+# Vue crud firebase
 
 ![](https://img.shields.io/badge/Made%20with-Vue-success) ![](https://img.shields.io/badge/Made%20with-Firebase-orange) ![](https://img.shields.io/badge/Made%20with-JavaScript-yellow)
 
