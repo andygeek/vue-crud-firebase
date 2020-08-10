@@ -8,6 +8,8 @@ This is a Crud app using Vue and Firestore.
 
 ## Starting 🚀
 
+For use this app you need credentials of Firebase in ```firebase.js```.
+
 ## Project setup
 ```
 npm install
