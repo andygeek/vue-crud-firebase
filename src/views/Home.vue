@@ -58,7 +58,7 @@ export default {
   },
   created() {
     // Call getUsers action when the Home it's created
-    this.getUsers();
+    this.$store.dispatch("getUsers");
   },
   computed: {
     ...mapState(["users"])
